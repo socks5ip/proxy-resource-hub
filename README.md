@@ -46,7 +46,7 @@
 
 访问：
 
-https://socks5ip.com.cn/guoneiip/
+[https://socks5ip.com.cn/guoneiip/](https://socks5ip.com.cn/guoneiip-proxy/)
 
 ---
 
