@@ -1,17 +1,25 @@
-# proxy-ip-tools
+## 🌍 About Proxy Resource Hub
 
-A collection of proxy IP tools, tutorials, and resources.  
-Helps developers quickly find reliable dynamic/stable residential and datacenter proxies.
+Proxy Resource Hub is a professional proxy IP navigation and resource aggregation platform.
 
-## Features
-- Proxy connection tester
-- IP speed & latency checker
-- Proxy configuration scripts
-- Tutorial links for Windows, Mac, Linux, OpenWrt, Soft Router
+We help users discover reliable proxy providers, compare prices, test IP quality, and learn proxy configuration through step-by-step tutorials.
 
-## Tutorials & Resources
-Over 200 original tutorials available at [全网低价IP](https://socks5ip.com.cn).
+🔗 Official Website:
+https://socks5ip.com.cn
 
-## Installation
-```bash
-git clone https://github.com/WUYAXI886/proxy-ip-tools.git
+Coverage:
+
+- Domestic IP Proxies
+- Overseas IP Proxies
+- SOCKS5 Proxy
+- HTTP Proxy
+- Residential Proxy
+- Datacenter Proxy
+- Static IP
+- Dynamic IP
+- OpenWrt Tutorials
+- Soft Router Tutorials
+- IP Checker Tools
+- Proxy Detection Tools
+- IP Location Lookup
+- Proxy Industry News
