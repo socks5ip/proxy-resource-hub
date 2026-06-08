@@ -1,25 +1,31 @@
-## 🌍 About Proxy Resource Hub
+## 🚀 关于全网低价IP
 
-Proxy Resource Hub is a professional proxy IP navigation and resource aggregation platform.
+全网低价IP（https://socks5ip.com.cn）是专业的代理IP导航与资源整合平台。
 
-We help users discover reliable proxy providers, compare prices, test IP quality, and learn proxy configuration through step-by-step tutorials.
+收录国内外30+主流代理IP品牌，为用户提供：
 
-🔗 Official Website:
-https://socks5ip.com.cn
+✅ 国内IP推荐
 
-Coverage:
+✅ 海外IP推荐
 
-- Domestic IP Proxies
-- Overseas IP Proxies
-- SOCKS5 Proxy
-- HTTP Proxy
-- Residential Proxy
-- Datacenter Proxy
-- Static IP
-- Dynamic IP
-- OpenWrt Tutorials
-- Soft Router Tutorials
-- IP Checker Tools
-- Proxy Detection Tools
-- IP Location Lookup
-- Proxy Industry News
+✅ Socks5代理
+
+✅ HTTP代理
+
+✅ 静态住宅IP
+
+✅ 动态住宅IP
+
+✅ 数据中心IP
+
+✅ 代理检测工具
+
+✅ IP查询工具
+
+✅ OpenWrt教程
+
+✅ 软路由教程
+
+✅ 最新代理资讯
+
+帮助用户快速找到适合自己的代理IP解决方案。
