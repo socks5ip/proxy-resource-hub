@@ -1,0 +1,202 @@
+# 优众IP
+
+## 优众IP简介 | 稳定国内住宅IP与SOCKS5代理解决方案
+
+在国内跨境电商、社媒运营、游戏加速以及数据采集场景中，**优众IP**以高稳定性和低风控特性被广泛推荐。它是全网低价IP（https://socks5ip.com.cn）旗下优质国内IP品牌之一。
+
+通过优众IP，用户可以轻松实现：
+
+- 国内出口IP控制
+- SOCKS5/L2TP代理接入
+- 游戏与跨境账号安全管理
+- 高速低延迟网络体验
+
+---
+
+# 为什么选择优众IP？
+
+## 高稳定性
+
+- 全程独享IP线路
+- 家庭宽带和企业线路结合
+- 长效静态IP可用
+
+---
+
+## 低风控特性
+
+- 住宅IP源自真实家庭宽带
+- ASN和归属地真实可靠
+- 支持多账号隔离，降低封号风险
+
+---
+
+## 多协议支持
+
+- **SOCKS5**：应用级别精细控制  
+- **HTTP/HTTPS**：适合浏览器及API调用  
+- **L2TP**：系统级全局代理  
+
+---
+
+# 优众IP适用场景
+
+## 跨境电商
+
+- Amazon、Shopee、AliExpress等多店铺运营  
+- 独享IP确保账号安全，降低封号风险
+
+## 社交媒体矩阵
+
+- TikTok、Facebook、Instagram  
+- 多账号分流，SOCKS5/IP隔离管理
+
+## 游戏加速
+
+- 国内高速出口，延迟低  
+- 支持海外节点切换，实现稳定游戏体验
+
+## 数据采集与自动化
+
+- 爬虫任务稳定
+- HTTP/SOCKS5灵活选择
+- 降低风控干扰
+
+---
+
+# 优众IP产品特点
+
+| 特性 | 说明 |
+| ---- | ---- |
+| IP类型 | 住宅IP / 独享IP / 静态IP |
+| 协议支持 | SOCKS5 / HTTP / L2TP |
+| 节点覆盖 | 全国主要城市（北京、上海、广州、深圳、杭州等） |
+| 免费测试 | 支持，注册即可测试 |
+| 线路延迟 | 全国平均50ms以内，稳定低延迟 |
+
+---
+
+# 如何使用优众IP
+
+## 1. 注册与购买
+
+访问官方平台：
+
+[优众IP注册/购买](https://socks5ip.com.cn/guoneiip/youzhongip/)
+
+支持免费测试，确认IP质量后再正式使用。
+
+---
+
+## 2. 代理配置
+
+### SOCKS5配置示例
+
+```text
+服务器地址：ip.example.com
+端口：1080
+用户名：your_account
+密码：your_password
+```
+
+### L2TP配置示例
+
+```text
+服务器地址：ip.example.com
+用户名：your_account
+密码：your_password
+秘钥：your_l2tp_key
+```
+
+---
+
+## 3. 线路测试与验证
+
+- 使用[IP质量检测中心](https://socks5ip.com.cn/ip-check)确认IP归属、类型与VPN识别情况  
+- 使用[代理线路检测中心](https://socks5ip.com.cn/proxy-check)检测连通性与延迟
+
+---
+
+# 优众IP优势总结
+
+- **稳定可靠**：住宅IP与静态IP组合，保证业务长期运行  
+- **多协议支持**：SOCKS5/L2TP/HTTP多协议，适配各类工具  
+- **低风控**：真实宽带源，降低封号风险  
+- **覆盖广**：国内主要城市节点，延迟低，响应快  
+- **易管理**：支持软路由与多设备接入
+
+---
+
+# 推荐组合方案
+
+## 小型工作室方案
+
+```text
+软路由 + 优众IP SOCKS5 + 指纹浏览器
+```
+
+适用：3~10设备，多账号运营
+
+---
+
+## 中型工作室方案
+
+```text
+软路由 + 多SOCKS5 + 静态住宅IP + L2TP分流
+```
+
+适用：10~50设备，矩阵账号管理
+
+---
+
+## 大型企业方案
+
+```text
+多软路由 + IP池 + L2TP全局出口 + SOCKS5分流
+```
+
+适用：50+设备，跨区域多业务运营
+
+---
+
+# 相关国内IP品牌
+
+- [鲸云IP](https://socks5ip.com.cn/guoneiip/jingyunip/)
+- [光子IP](https://socks5ip.com.cn/guoneiip/guangziip/)
+- [光梭IP](https://socks5ip.com.cn/guoneiip/guangsuoip/)
+- [糖果IP](https://socks5ip.com.cn/guoneiip/tangguoip/)
+- [jiuIP](https://socks5ip.com.cn/guoneiip/jiuip/)
+
+---
+
+# 国内IP使用FAQ
+
+## 优众IP适合新手吗？
+
+是的，提供免费测试和详细配置教程，新手也能快速上手。
+
+## 如何确保账号安全？
+
+- 使用独享住宅IP
+- 一账号一IP原则
+- 避免混用IP环境
+
+## 代理协议如何选择？
+
+- SOCKS5：应用级账号隔离  
+- L2TP：系统级全局代理  
+- HTTP/HTTPS：爬虫、浏览器和API任务
+
+---
+
+# 总结
+
+优众IP是国内IP市场中稳定性和低风控的代表品牌，结合全网低价IP提供的软路由和代理工具，可以轻松实现：
+
+```text
+多设备管理 + 多账号隔离 + 稳定IP出口 + 低风控运营
+```
+
+官网入口：
+
+[https://socks5ip.com.cn/guoneiip/youzhongip/](https://socks5ip.com.cn/guoneiip/youzhongip/)
