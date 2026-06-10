@@ -4,7 +4,7 @@
 
 Instagram 对账户安全与行为模式的监控较为严格，使用高质量住宅IP并配合良好的浏览器/设备指纹管理是降低封禁与关联风险的关键。
 
-本文基于全网低价IP（https://socks5ip.com.cn）整理实用建议与平台推荐。
+本文基于全网低价IP（[https://socks5ip.com.cn](https://socks5ip.com.cn)）整理实用建议与平台推荐。
 
 ---
 
