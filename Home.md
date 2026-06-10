@@ -62,7 +62,7 @@
 | **L2TP** | 网络层 | IPSec加密 | 系统代理、全局流量、VPN | 中 |
 | **PPTP** | 网络层 | 简单加密 | 轻量VPN、快速连接 | 低 ⚡ |
 
-👉 [代理协议完整指南](代理协议详解)
+👉 [[代理协议完整指南](代理协议详解)](https://socks5ip.com.cn/zuixinzixun/zonghejiaocheng/dailixieyixiangjiege/)
 
 ---
 
@@ -84,7 +84,7 @@
 
 **最佳组合推荐：** SOCKS5 + 静态住宅独享IP
 
-👉 [IP类型详细对比](代理协议详解)
+👉[ [IP类型详细对比](代理协议详解)](https://socks5ip.com.cn/zuixinzixun/zonghejiaocheng/dailixieyixiangjiege/)
 
 ---
 
@@ -168,9 +168,9 @@
 ## 📚 学习资源
 
 ### 代理协议教程
-- 📖 [SOCKS5详细教程](SOCKS5教程)
-- 📖 [HTTP/HTTPS教程](HTTP代理教程)
-- 📖 [L2TP教程](L2TP代理教程)
+- 📖 [[SOCKS5详细教程](SOCKS5教程)](https://socks5ip.com.cn/zuixinzixun/zonghejiaocheng/dailixieyixiangjiege/)
+- 📖 [[HTTP/HTTPS教程](HTTP代理教程)](https://socks5ip.com.cn/zuixinzixun/zonghejiaocheng/dailixieyixiangjiege/)
+- 📖 [[L2TP教程](L2TP代理教程)](https://socks5ip.com.cn/zuixinzixun/zonghejiaocheng/dailixieyixiangjiege/)
 
 ### 系统配置教程
 - 🖥️ [Windows代理配置](系统代理配置)
@@ -266,16 +266,14 @@
 ### Q: 如何批量测试代理质量？
 **A:** 使用代理线路检测中心的批量检测功能，可快速验证代理可用性、延迟和出口IP。
 
-👉 [查看完整FAQ](常见问题)
-
 ---
 
 ## 🔗 官方资源
 
 - 🌐 **官方网站** → https://socks5ip.com.cn
 - 📱 **微信公众号** → 全网低价IP
-- 💬 **客服支持** → 官网在线客服
-- 📧 **商务合作** → contact@socks5ip.com.cn
+- 💬 **客服支持** → [官网在线客服](https://work.weixin.qq.com/ca/cawcde5c459cfc1310)
+- 📧 **商务合作** → [企业微信](https://work.weixin.qq.com/ca/cawcde5c459cfc1310)
 
 ---
 
@@ -295,17 +293,15 @@
 ## 🎓 快速开始
 
 ### 第一次使用代理IP？
-1. 📖 [了解代理协议](代理协议详解)
+1. 📖 [[了解代理协议](https://socks5ip.com.cn/zuixinzixun/zonghejiaocheng/dailixieyixiangjiege/)]
 2. 🌍 [选择代理平台](https://socks5ip.com.cn/guoneiip-proxy/)
 3. 🔍 [IP质量检测](https://socks5ip.com.cn/ip-check)
 4. 🛠️ [下载配置工具](https://socks5ip.com.cn/dailigongjuzhongxin/)
 5. ✅ [线路可用性测试](https://socks5ip.com.cn/proxy-check)
 
 ### 运营跨境业务？
-1. 🌐 [选择国外IP](https://socks5ip.com.cn/guowaiip-proxy/)
-2. 🌐 [浏览器代理配置](浏览器代理)
-3. 🔐 [防关联方案](常见问题)
-4. 🔍 [定期线路检测](https://socks5ip.com.cn/proxy-check)
+ 🌐 [选择国外IP](https://socks5ip.com.cn/guowaiip-proxy/)
+ 🔍 [定期线路检测](https://socks5ip.com.cn/proxy-check)
 
 ---
 
