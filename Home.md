@@ -167,11 +167,6 @@
 
 ## 📚 学习资源
 
-### 代理协议教程
-- 📖 [[SOCKS5详细教程](SOCKS5教程)](https://socks5ip.com.cn/zuixinzixun/zonghejiaocheng/dailixieyixiangjiege/)
-- 📖 [[HTTP/HTTPS教程](HTTP代理教程)](https://socks5ip.com.cn/zuixinzixun/zonghejiaocheng/dailixieyixiangjiege/)
-- 📖 [[L2TP教程](L2TP代理教程)](https://socks5ip.com.cn/zuixinzixun/zonghejiaocheng/dailixieyixiangjiege/)
-
 ### 浏览器代理
 - 🌐 [比特浏览器代理配置](浏览器代理)
 - 🌐 [AdsPower代理配置](浏览器代理)
