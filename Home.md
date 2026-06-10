@@ -62,7 +62,7 @@
 | **L2TP** | 网络层 | IPSec加密 | 系统代理、全局流量、VPN | 中 |
 | **PPTP** | 网络层 | 简单加密 | 轻量VPN、快速连接 | 低 ⚡ |
 
-👉 [[代理协议完整指南](代理协议详解)](https://socks5ip.com.cn/zuixinzixun/zonghejiaocheng/dailixieyixiangjiege/)
+👉 [[代理协议完整指南]](https://socks5ip.com.cn/zuixinzixun/zonghejiaocheng/dailixieyixiangjiege/)
 
 ---
 
@@ -84,7 +84,7 @@
 
 **最佳组合推荐：** SOCKS5 + 静态住宅独享IP
 
-👉[ [IP类型详细对比](代理协议详解)](https://socks5ip.com.cn/zuixinzixun/zonghejiaocheng/dailixieyixiangjiege/)
+👉[ [IP类型详细对比]](https://socks5ip.com.cn/zuixinzixun/zonghejiaocheng/dailixieyixiangjiege/)
 
 ---
 
@@ -171,11 +171,6 @@
 - 📖 [[SOCKS5详细教程](SOCKS5教程)](https://socks5ip.com.cn/zuixinzixun/zonghejiaocheng/dailixieyixiangjiege/)
 - 📖 [[HTTP/HTTPS教程](HTTP代理教程)](https://socks5ip.com.cn/zuixinzixun/zonghejiaocheng/dailixieyixiangjiege/)
 - 📖 [[L2TP教程](L2TP代理教程)](https://socks5ip.com.cn/zuixinzixun/zonghejiaocheng/dailixieyixiangjiege/)
-
-### 系统配置教程
-- 🖥️ [Windows代理配置](系统代理配置)
-- 📱 [Android代理配置](系统代理配置)
-- 🍎 [iPhone/Mac代理配置](系统代理配置)
 
 ### 浏览器代理
 - 🌐 [比特浏览器代理配置](浏览器代理)
