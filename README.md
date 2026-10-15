@@ -44,6 +44,7 @@ python tools/socks5_checker.py \
 - [proxy-checker-cli](https://github.com/socks5ip/proxy-checker-cli) — 跨平台代理检测命令行工具
 - [residential-ip-guide-cn](https://github.com/socks5ip/residential-ip-guide-cn) — 住宅 IP 与静态 IP 选型和接入指南
 - [ip-zhishi-base](https://github.com/socks5ip/ip-zhishi-base) — IP 网络基础知识库
+- **代理IP价格数据集（24 家 · CC0-1.0 · DOI）**：https://doi.org/10.5281/zenodo.22801591 —— 可学术引用，始终指向最新版
 
 ## 贡献与授权
 
